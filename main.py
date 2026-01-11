@@ -23,7 +23,3 @@ elif action == '/':
 elif action == '%':
     answ = num_1 % num_2
     print(f'Answer: {answ}')
-
-elif action == '//':
-    answ = num_1 // num_2
-    print(f'Answer: {answ}')
